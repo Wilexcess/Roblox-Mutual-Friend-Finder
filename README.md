@@ -6,8 +6,11 @@ Made by Wilexcess
 
 ## Features
 - **Automatic Browser & Driver Management:** Will automatically detect if Microsoft Edge, Google Chrome, or Mozilla Firefox is installed, and uses 'webdriver-manager' to download and manage correct webdriver for respective browser. No manual setup required!
+  
 - **Compare Multiple Users** Find mutual friends among any number of Roblox users (2 or more).
+  
 - **Persistent Login:** After a one-time manual login, the script saves the authentication cookie. On all future runs, it will automatically log in without having to need your password. (Alt account recommended)
+  
 - **Saves Results to File:** Saves the list of mutual friends to a clearly labeled 'mutuals_[timestamp].txt' file for your records.
 
 ## Requirements
